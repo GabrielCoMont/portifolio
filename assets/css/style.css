@@ -129,7 +129,7 @@
   }
   
   .button {
-    background: none;
+    background: white;
     border: 0.2rem solid var(--primary-color);
   
     margin-bottom: 6rem;
